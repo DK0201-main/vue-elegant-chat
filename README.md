@@ -1,10 +1,17 @@
-[![Build Status](https://travis-ci.com/ValdesChe/WhatChat.svg?branch=master)](https://travis-ci.com/ValdesChe/WhatChat) [![codecov](https://codecov.io/gh/ValdesChe/WhatChat/branch/master/graph/badge.svg)](https://codecov.io/gh/ValdesChe/WhatChat) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://travis-ci.com/ValdesChe/WhatChat.svg?branch=master)](https://travis-ci.com/ValdesChe/WhatChat) [![codecov](https://codecov.io/gh/ValdesChe/WhatChat/branch/master/graph/badge.svg)](https://codecov.io/gh/ValdesChe/WhatChat) [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Heroku](https://heroku-badge.herokuapp.com/?app=whatchatapp&style=flat)](https://whatchatapp.herokuapp.com/)
 # WhatChat
 
 A WhatsApp web simple clone using Elixir/Phoenix, VueJs and PostgreSQL.
 
 DEMO VIDEO v0: https://www.youtube.com/watch?v=Kha_Y7a4yrs
+
+## Requirements
+
+   -  Inotify-tools (see the following this [`guide`](https://github.com/inotify-tools/inotify-tools/wiki) )
+   -  Erlang 21.2.5
+   -  Elixir 1.8.1
+   -  Nodejs 12.12.0
 
 ## Installation
 
